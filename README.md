@@ -102,5 +102,5 @@ Under review
 Este trabajo es parte del proyecto de I+D+i PID2023-150694OA-I00, financiado por MICIU/AEI/10.13039/501100011033 y "FEDER/UE".
 
 <p align="center" style="background-color: white; padding: 10px; border-radius: 15px;">
-  <img src="figures/MICIU.png" alt="MICIU Logo" width="350" />
+  <img src="img/MICIU.png" alt="MICIU Logo" width="350" />
 </p>
